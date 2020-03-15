@@ -19,6 +19,17 @@ An easy way would be to
 
 TO DEVELOP
 
+For scraping HTML with Java, there are several open source libraries e.g.
+- [JSoup](https://jsoup.org/)
+- [attoparser](https://www.attoparser.org/)
+
 ## Transform to an input format suitable for the EU link repository
 
 TO DEVELOP
+
+For writing CSV with Java, there are several open source libraries, e.g.
+- [OpenCSV](http://opencsv.sourceforge.net)
+- [Jackson Dataformats Text](https://github.com/FasterXML/jackson-dataformats-text)
+
+For writing RDF with Java:
+- [Eclipse rdf4j](https://rdf4j.org/)
