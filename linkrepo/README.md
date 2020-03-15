@@ -1,8 +1,8 @@
-# Link repo tools
+# Link repository tools
 
 Automate the exchange of links to information on several regional/national pages to the EU link repository tool.
 
-## Exporting / publishing data from existing sites
+## Export / publish links to information, from existing sites
 
 ### For Drupal 7/8 websites
 
