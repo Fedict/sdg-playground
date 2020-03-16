@@ -2,6 +2,8 @@
 
 Automate the exchange of links to information on several regional/national pages to the EU link repository tool.
 
+![flow](linkflow.png)
+
 ## Export / publish links to information, from existing sites
 
 ### For Drupal 7/8 websites
