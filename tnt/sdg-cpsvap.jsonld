@@ -16,7 +16,7 @@
 	},
 	"@graph": [
 		{
-			"@id": "http://id.belgif.be/prodecures/sdg/10",
+			"@id": "http://id.belgif.be/procedures/sdg/10",
 			"@type": "cpsv:PublicService",
 			"identifier": "SDG 10",
 			"title": {
@@ -30,7 +30,7 @@
 				"fr": "Organisez votre changement d'adresse, vos demandes de subvention, la collecte des ordures, l'inscription à l'école et la garde d'enfants."	
 			}
 		}, {
-			"@id": "http://id.belgif.be/prodecures/sdg/11",
+			"@id": "http://id.belgif.be/procedures/sdg/11",
 			"@type": "cpsv:PublicService",
 			"identifier": "SDG 11",
 			"title": {
@@ -44,7 +44,7 @@
 				"fr": "Organisez l'inspection douanière, l’inspection automobile, la demande de votre plaque d'immatriculation et le certificat d’immatriculation."	
 			}
 		}, {
-			"@id": "http://id.belgif.be/prodecures/sdg/1",
+			"@id": "http://id.belgif.be/procedures/sdg/1",
 			"@type": "cpsv:PublicService",
 			"identifier": "SDG 1",
 			"title": {
